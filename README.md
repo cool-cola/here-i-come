@@ -1,4 +1,5 @@
-here-i-come
-===========
-acctually,i like the pretty girls,but now i have to face the file or the code because i am a diaoshi!!
----------------------------:) because of healing the world,here i come!!
+Here  I  Come!!
+
+I  just  use  this  repository  to  learn  the  GitHub .
+
+I  would like to  be  a  software  engineer  so that  I need  to  know  the  GitHub  well.
